@@ -1,2 +1,3 @@
 # reflectiveTask2
-Second reflective task
+Second reflective task;
+JavaScript
